@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="automationTestcases.TC_014_Login_Wait_Explicit">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="tc001"/>
+          <include name="startBrowser"/>
+        </methods>
+      </class> <!-- automationTestcases.TC_014_Login_Wait_Explicit -->
+      <class name="automationTestcases.TC_009_Facebook_Login_Keyboard_Multiple_Keys">
+        <methods>
+          <include name="tc001"/>
+          <include name="closeBrowser"/>
+          <include name="startBrowser"/>
+        </methods>
+      </class> <!-- automationTestcases.TC_009_Facebook_Login_Keyboard_Multiple_Keys -->
+      <class name="automationTestcases.TC_010_Facebook_Mouse_Operations">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="tc001"/>
+          <include name="startBrowser"/>
+        </methods>
+      </class> <!-- automationTestcases.TC_010_Facebook_Mouse_Operations -->
+      <class name="automationTestcases.TC_011_Mouse_Move_ToElement">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="startBrowser"/>
+          <include name="tc001"/>
+        </methods>
+      </class> <!-- automationTestcases.TC_011_Mouse_Move_ToElement -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

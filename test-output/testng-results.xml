@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="4" ignored="0" total="13" passed="9">
+  <reporter-output>
+    <line>
+      <![CDATA[<a title= "Snapshot" href="C:\Users\dmuik\Automation\WebAutomation\.\Screenshots\Registration ErrorWedOct14134600EDT2020.png"><img width="418" height="240" alt="alternativeName" title="title" scr="../surefire-reports/html/screenShots/./Screenshots/Registration ErrorWedOct14134600EDT2020.png]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="120007" started-at="2020-10-14T17:45:19Z" finished-at="2020-10-14T17:47:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="120007" started-at="2020-10-14T17:45:19Z" finished-at="2020-10-14T17:47:19Z">
+      <class name="automationTestcases.TC_012_Keyboard_And_Mouse_Operation">
+        <test-method status="PASS" signature="startBrowser()[pri:0, instance:automationTestcases.TC_012_Keyboard_And_Mouse_Operation@6107227e]" name="startBrowser" is-config="true" duration-ms="7832" started-at="2020-10-14T17:45:19Z" finished-at="2020-10-14T17:45:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="tc001()[pri:0, instance:automationTestcases.TC_012_Keyboard_And_Mouse_Operation@6107227e]" name="tc001" duration-ms="3367" started-at="2020-10-14T17:45:27Z" finished-at="2020-10-14T17:45:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc001 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:automationTestcases.TC_012_Keyboard_And_Mouse_Operation@6107227e]" name="closeBrowser" is-config="true" duration-ms="663" started-at="2020-10-14T17:45:30Z" finished-at="2020-10-14T17:45:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- automationTestcases.TC_012_Keyboard_And_Mouse_Operation -->
+      <class name="automationTestcases.TC_013_Registration_DropDown_List">
+        <test-method status="PASS" signature="startBrowser()[pri:0, instance:automationTestcases.TC_013_Registration_DropDown_List@7c417213]" name="startBrowser" is-config="true" duration-ms="7076" started-at="2020-10-14T17:45:31Z" finished-at="2020-10-14T17:45:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="tc001()[pri:0, instance:automationTestcases.TC_013_Registration_DropDown_List@7c417213]" name="tc001" duration-ms="7621" started-at="2020-10-14T17:45:38Z" finished-at="2020-10-14T17:45:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc001 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:automationTestcases.TC_013_Registration_DropDown_List@7c417213]" name="closeBrowser" is-config="true" duration-ms="634" started-at="2020-10-14T17:45:45Z" finished-at="2020-10-14T17:45:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- automationTestcases.TC_013_Registration_DropDown_List -->
+      <class name="automationTestcases.TC_007_Registration_FetchData_FromBrowser">
+        <test-method status="PASS" signature="startBrowser()[pri:0, instance:automationTestcases.TC_007_Registration_FetchData_FromBrowser@15761df8]" name="startBrowser" is-config="true" duration-ms="6204" started-at="2020-10-14T17:45:46Z" finished-at="2020-10-14T17:45:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="tc001()[pri:0, instance:automationTestcases.TC_007_Registration_FetchData_FromBrowser@15761df8]" name="tc001" duration-ms="393" started-at="2020-10-14T17:45:52Z" finished-at="2020-10-14T17:45:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc001 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:automationTestcases.TC_007_Registration_FetchData_FromBrowser@15761df8]" name="closeBrowser" is-config="true" duration-ms="669" started-at="2020-10-14T17:45:53Z" finished-at="2020-10-14T17:45:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- automationTestcases.TC_007_Registration_FetchData_FromBrowser -->
+      <class name="automationTestcases.TC_001_Registration_Functionality">
+        <test-method status="PASS" signature="startBrowser()[pri:0, instance:automationTestcases.TC_001_Registration_Functionality@6ab7a896]" name="startBrowser" is-config="true" duration-ms="6636" started-at="2020-10-14T17:45:53Z" finished-at="2020-10-14T17:46:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="tc001()[pri:0, instance:automationTestcases.TC_001_Registration_Functionality@6ab7a896]" name="tc001" duration-ms="1074" started-at="2020-10-14T17:46:00Z" finished-at="2020-10-14T17:46:01Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<a title= "Snapshot" href="C:\Users\dmuik\Automation\WebAutomation\.\Screenshots\Registration ErrorWedOct14134600EDT2020.png"><img width="418" height="240" alt="alternativeName" title="title" scr="../surefire-reports/html/screenShots/./Screenshots/Registration ErrorWedOct14134600EDT2020.png]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc001 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:automationTestcases.TC_001_Registration_Functionality@6ab7a896]" name="closeBrowser" is-config="true" duration-ms="612" started-at="2020-10-14T17:46:01Z" finished-at="2020-10-14T17:46:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- automationTestcases.TC_001_Registration_Functionality -->
+      <class name="automationTestcases.TC_003_Registration_TextBoxes">
+        <test-method status="PASS" signature="startBrowser()[pri:0, instance:automationTestcases.TC_003_Registration_TextBoxes@327b636c]" name="startBrowser" is-config="true" duration-ms="6531" started-at="2020-10-14T17:46:02Z" finished-at="2020-10-14T17:46:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="tc001()[pri:0, instance:automationTestcases.TC_003_Registration_TextBoxes@327b636c]" name="tc001" duration-ms="269" started-at="2020-10-14T17:46:08Z" finished-at="2020-10-14T17:46:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc001 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:automationTestcases.TC_003_Registration_TextBoxes@327b636c]" name="closeBrowser" is-config="true" duration-ms="659" started-at="2020-10-14T17:46:08Z" finished-at="2020-10-14T17:46:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- automationTestcases.TC_003_Registration_TextBoxes -->
+      <class name="automationTestcases.TC_009_Facebook_Login_Keyboard_Multiple_Keys">
+        <test-method status="PASS" signature="startBrowser()[pri:0, instance:automationTestcases.TC_009_Facebook_Login_Keyboard_Multiple_Keys@45dd4eda]" name="startBrowser" is-config="true" duration-ms="7152" started-at="2020-10-14T17:46:09Z" finished-at="2020-10-14T17:46:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="FAIL" signature="tc001()[pri:0, instance:automationTestcases.TC_009_Facebook_Login_Keyboard_Multiple_Keys@45dd4eda]" name="tc001" duration-ms="35" started-at="2020-10-14T17:46:16Z" finished-at="2020-10-14T17:46:16Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"css selector","selector":"#email"}
+  (Session info: chrome=86.0.4240.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6DPU4JM3', ip: '192.168.96.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\dmuik\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55566}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 876d985ecbaf1651a0851c8dbe005877
+*** Element info: {Using=id, value=email}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#email"}
+  (Session info: chrome=86.0.4240.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6DPU4JM3', ip: '192.168.96.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\dmuik\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55566}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 876d985ecbaf1651a0851c8dbe005877
+*** Element info: {Using=id, value=email}
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+at java.lang.reflect.Constructor.newInstance(Unknown Source)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:372)
+at org.openqa.selenium.By$ById.findElement(By.java:188)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at automationTestcases.TC_009_Facebook_Login_Keyboard_Multiple_Keys.tc001(TC_009_Facebook_Login_Keyboard_Multiple_Keys.java:19)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc001 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:automationTestcases.TC_009_Facebook_Login_Keyboard_Multiple_Keys@45dd4eda]" name="closeBrowser" is-config="true" duration-ms="624" started-at="2020-10-14T17:46:16Z" finished-at="2020-10-14T17:46:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- automationTestcases.TC_009_Facebook_Login_Keyboard_Multiple_Keys -->
+      <class name="automationTestcases.TC_004_Registration_Button_Link">
+        <test-method status="PASS" signature="startBrowser()[pri:0, instance:automationTestcases.TC_004_Registration_Button_Link@60611244]" name="startBrowser" is-config="true" duration-ms="6596" started-at="2020-10-14T17:46:17Z" finished-at="2020-10-14T17:46:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="tc001()[pri:0, instance:automationTestcases.TC_004_Registration_Button_Link@60611244]" name="tc001" duration-ms="165" started-at="2020-10-14T17:46:23Z" finished-at="2020-10-14T17:46:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc001 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:automationTestcases.TC_004_Registration_Button_Link@60611244]" name="closeBrowser" is-config="true" duration-ms="654" started-at="2020-10-14T17:46:24Z" finished-at="2020-10-14T17:46:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- automationTestcases.TC_004_Registration_Button_Link -->
+      <class name="automationTestcases.TC_008_Facebook_Login_Keyboard_Single_Key">
+        <test-method status="PASS" signature="startBrowser()[pri:0, instance:automationTestcases.TC_008_Facebook_Login_Keyboard_Single_Key@3745e5c6]" name="startBrowser" is-config="true" duration-ms="14056" started-at="2020-10-14T17:46:24Z" finished-at="2020-10-14T17:46:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="tc001()[pri:0, instance:automationTestcases.TC_008_Facebook_Login_Keyboard_Single_Key@3745e5c6]" name="tc001" duration-ms="17" started-at="2020-10-14T17:46:38Z" finished-at="2020-10-14T17:46:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc001 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:automationTestcases.TC_008_Facebook_Login_Keyboard_Single_Key@3745e5c6]" name="closeBrowser" is-config="true" duration-ms="633" started-at="2020-10-14T17:46:38Z" finished-at="2020-10-14T17:46:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- automationTestcases.TC_008_Facebook_Login_Keyboard_Single_Key -->
+      <class name="automationTestcases.TC_014_Login_Wait_Explicit">
+        <test-method status="PASS" signature="startBrowser()[pri:0, instance:automationTestcases.TC_014_Login_Wait_Explicit@5e4c8041]" name="startBrowser" is-config="true" duration-ms="6600" started-at="2020-10-14T17:46:39Z" finished-at="2020-10-14T17:46:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="FAIL" signature="tc001()[pri:0, instance:automationTestcases.TC_014_Login_Wait_Explicit@5e4c8041]" name="tc001" duration-ms="117" started-at="2020-10-14T17:46:46Z" finished-at="2020-10-14T17:46:46Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"css selector","selector":"*[name='txtUserName']"}
+  (Session info: chrome=86.0.4240.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6DPU4JM3', ip: '192.168.96.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\dmuik\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55669}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: c685a55fac3e1f224b43630ae33e6798
+*** Element info: {Using=name, value=txtUserName}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"*[name='txtUserName']"}
+  (Session info: chrome=86.0.4240.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6DPU4JM3', ip: '192.168.96.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\dmuik\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55669}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: c685a55fac3e1f224b43630ae33e6798
+*** Element info: {Using=name, value=txtUserName}
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+at java.lang.reflect.Constructor.newInstance(Unknown Source)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByName(RemoteWebDriver.java:404)
+at org.openqa.selenium.By$ByName.findElement(By.java:284)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at automationPages.LoginPage.enterUsername(LoginPage.java:23)
+at automationTestcases.TC_014_Login_Wait_Explicit.tc001(TC_014_Login_Wait_Explicit.java:23)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc001 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:automationTestcases.TC_014_Login_Wait_Explicit@5e4c8041]" name="closeBrowser" is-config="true" duration-ms="652" started-at="2020-10-14T17:46:46Z" finished-at="2020-10-14T17:46:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- automationTestcases.TC_014_Login_Wait_Explicit -->
+      <class name="automationTestcases.TC_006_Registration_DropDown_List">
+        <test-method status="PASS" signature="startBrowser()[pri:0, instance:automationTestcases.TC_006_Registration_DropDown_List@71c8becc]" name="startBrowser" is-config="true" duration-ms="6900" started-at="2020-10-14T17:46:46Z" finished-at="2020-10-14T17:46:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="tc001()[pri:0, instance:automationTestcases.TC_006_Registration_DropDown_List@71c8becc]" name="tc001" duration-ms="3505" started-at="2020-10-14T17:46:53Z" finished-at="2020-10-14T17:46:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc001 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:automationTestcases.TC_006_Registration_DropDown_List@71c8becc]" name="closeBrowser" is-config="true" duration-ms="637" started-at="2020-10-14T17:46:57Z" finished-at="2020-10-14T17:46:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- automationTestcases.TC_006_Registration_DropDown_List -->
+      <class name="automationTestcases.TC_005_Registration_Radio_Button">
+        <test-method status="PASS" signature="startBrowser()[pri:0, instance:automationTestcases.TC_005_Registration_Radio_Button@19d37183]" name="startBrowser" is-config="true" duration-ms="6235" started-at="2020-10-14T17:46:57Z" finished-at="2020-10-14T17:47:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="PASS" signature="tc001()[pri:0, instance:automationTestcases.TC_005_Registration_Radio_Button@19d37183]" name="tc001" duration-ms="253" started-at="2020-10-14T17:47:04Z" finished-at="2020-10-14T17:47:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc001 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:automationTestcases.TC_005_Registration_Radio_Button@19d37183]" name="closeBrowser" is-config="true" duration-ms="639" started-at="2020-10-14T17:47:04Z" finished-at="2020-10-14T17:47:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- automationTestcases.TC_005_Registration_Radio_Button -->
+      <class name="automationTestcases.TC_010_Facebook_Mouse_Operations">
+        <test-method status="PASS" signature="startBrowser()[pri:0, instance:automationTestcases.TC_010_Facebook_Mouse_Operations@1a0dcaa]" name="startBrowser" is-config="true" duration-ms="6666" started-at="2020-10-14T17:47:05Z" finished-at="2020-10-14T17:47:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="FAIL" signature="tc001()[pri:0, instance:automationTestcases.TC_010_Facebook_Mouse_Operations@1a0dcaa]" name="tc001" duration-ms="23" started-at="2020-10-14T17:47:11Z" finished-at="2020-10-14T17:47:11Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"css selector","selector":"#email"}
+  (Session info: chrome=86.0.4240.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6DPU4JM3', ip: '192.168.96.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\dmuik\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55756}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: d10f3720ce1a8adb5cacb5010534edba
+*** Element info: {Using=id, value=email}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#email"}
+  (Session info: chrome=86.0.4240.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6DPU4JM3', ip: '192.168.96.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\dmuik\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55756}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: d10f3720ce1a8adb5cacb5010534edba
+*** Element info: {Using=id, value=email}
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+at java.lang.reflect.Constructor.newInstance(Unknown Source)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:372)
+at org.openqa.selenium.By$ById.findElement(By.java:188)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at automationTestcases.TC_010_Facebook_Mouse_Operations.tc001(TC_010_Facebook_Mouse_Operations.java:16)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc001 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:automationTestcases.TC_010_Facebook_Mouse_Operations@1a0dcaa]" name="closeBrowser" is-config="true" duration-ms="649" started-at="2020-10-14T17:47:11Z" finished-at="2020-10-14T17:47:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- automationTestcases.TC_010_Facebook_Mouse_Operations -->
+      <class name="automationTestcases.TC_011_Mouse_Move_ToElement">
+        <test-method status="PASS" signature="startBrowser()[pri:0, instance:automationTestcases.TC_011_Mouse_Move_ToElement@3bd40a57]" name="startBrowser" is-config="true" duration-ms="6258" started-at="2020-10-14T17:47:12Z" finished-at="2020-10-14T17:47:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startBrowser -->
+        <test-method status="FAIL" signature="tc001()[pri:0, instance:automationTestcases.TC_011_Mouse_Move_ToElement@3bd40a57]" name="tc001" duration-ms="20" started-at="2020-10-14T17:47:18Z" finished-at="2020-10-14T17:47:18Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(@title,'VIDEOS')]"}
+  (Session info: chrome=86.0.4240.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6DPU4JM3', ip: '192.168.96.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\dmuik\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55785}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 0fa26c6eff532a01b38031e06f29b1f6
+*** Element info: {Using=xpath, value=//a[contains(@title,'VIDEOS')]}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[contains(@title,'VIDEOS')]"}
+  (Session info: chrome=86.0.4240.75)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6DPU4JM3', ip: '192.168.96.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.75, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: C:\Users\dmuik\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55785}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 0fa26c6eff532a01b38031e06f29b1f6
+*** Element info: {Using=xpath, value=//a[contains(@title,'VIDEOS')]}
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+at java.lang.reflect.Constructor.newInstance(Unknown Source)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at automationTestcases.TC_011_Mouse_Move_ToElement.tc001(TC_011_Mouse_Move_ToElement.java:17)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc001 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:automationTestcases.TC_011_Mouse_Move_ToElement@3bd40a57]" name="closeBrowser" is-config="true" duration-ms="621" started-at="2020-10-14T17:47:18Z" finished-at="2020-10-14T17:47:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- automationTestcases.TC_011_Mouse_Move_ToElement -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

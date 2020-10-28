@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.533">
+  <properties />
+  
+  
+            <testcase name="tc001" time="0.533" classname="automationTestcases.TC_005_Registration_Radio_Button" />
+      
+</testsuite>
